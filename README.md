@@ -1,6 +1,6 @@
 # The Ultimate Personalized Generative AI Engineer Master Roadmap 2026 – Khalid Ahmed Edition
 
-**Last Updated:** April 12, 2026 | 02:42 PM
+**Last Updated:** April 29, 2026 | 16:28
 
 *This roadmap has been meticulously curated to incorporate every detail from key sources (ChatGPT, Claude, Gemini, Grok) alongside specialized practical expertise, providing a comprehensive path for a Generative AI Engineer.*
 
@@ -70,7 +70,7 @@
 - **Image Processing Basics**: OpenCV (Filtering, Edge Detection, Augmentation).
 - **Image Classification**.
 - **Object Detection**: YOLO, Faster R-CNN, SSD.
-- **Image Segmentation**: Semantic, Instance, Panoptic (U-Net, Mask R-CNN).
+- **Image Segmentation**: Semantic, Instance, Panoptic (U-Net, Mask R-CNN, SegFormer).
 - **Vision Transformers (ViT) & Variants**: Swin Transformers, DeiT, DETR, SETR. Also **CLIP** (Contrastive Language-Image Pretraining).
 - **General Visual Tasks**: Pose Estimation, Object Tracking, Depth Estimation, Optical Character Recognition (OCR).
 
@@ -95,6 +95,7 @@
 - **Flow Matching Models (Rectified Flows, etc)**.
 - **Energy-Based Models (EBMs)**: Score Matching, Noise Contrastive Estimation (NCE).
 - **Multimodal Models**: Text + Audio + Image + Video (GPT-4o, DALL-E, Sora, Whisper).
+- **LipSync**: Audio-driven facial animation and lip synchronization.
 - **Audio Language Models & Omni-modal (Research Trends)**: Qwen-Audio, MiniCPM, Mini-Omni, EMOVA, CosyVoice (1 & 3), FunAudioLLM, F5-TTS, Kimi-Audio, LLaMA-Omni 2, Qwen3-ASR/TTS, OmniVoice.
 
 ### 10. Reinforcement Learning (RL)
@@ -119,7 +120,7 @@
 - **Monitoring**: Data Drift, Concept Drift, Model Performance, A/B Testing.
 - **LLMOps**: Managing, evaluating, and tracking large-scale LLMs in production.
 - **Hardware Acceleration & NVIDIA Ecosystem**: CUDA / cuDNN, NGC / NIM (NVIDIA Inference Microservices).
-- **Inference Optimization & Edge AI**: Quantization (Linear, Symmetric/Asymmetric, 4-bit, Quanto compression), Pruning, Distillation, ONNX / ONNX Runtime, TensorRT, TFLite (mobile/edge), Dynamic GPU detection & gradient accumulation.
+- **Model Optimization Techniques**: LoRA, QLoRA, PEFT, Model Quantization (Linear Quantization, Symmetric/Asymmetric modes, 4-bit, Quanto compression), Pruning, Distillation, ONNX / ONNX Runtime, TensorRT, TFLite (mobile/edge), Dynamic GPU detection & gradient accumulation.
 - **CI/CD & Automation**: Deployment pipelines, automated retraining for continuous improvement, Cloud Platforms (AWS SageMaker, Google Vertex AI, Azure ML).
 - **Inference Types**: Batch Inference vs. Real-time Inference (WebSocket, WebRTC).
 
@@ -138,4 +139,12 @@
 - **NLP & GenAI**: Hugging Face (Transformers, PEFT, Datasets, Hub), LangChain, LlamaIndex, crewAI, AutoGen, LangGraph, Haystack.
 - **Vector & Graph DBs**: ChromaDB, FAISS, Weaviate, Neo4j, Pinecone, Qdrant, LanceDB.
 - **Web & API**: FastAPI, Flask, Django, Gradio, Streamlit, WebSocket, WebRTC, RESTful APIs.
-- **Other & Specialized Tools**: NLTK, SpaCy, OpenCV, YOLO, Automatic1111, ComfyUI, Git/GitHub, Firebase, SQLite, Docker, Kaggle, Colab, Selenium, Airflow, Prefect, Kubeflow, Ollama, LM Studio, OpenRouter, Spark, Hadoop.
+- **Other & Specialized Tools**: NLTK, SpaCy, OpenCV, YOLO, Automatic1111, ComfyUI, Git/GitHub/GitLab, Firebase, SQLite, Docker, Kaggle, Colab, Selenium, Airflow, Prefect, Kubeflow, Ollama, LM Studio, OpenRouter, Replicate, Spark, Hadoop.
+
+### 16. Soft Skills
+- **Communication and Team Collaboration**
+- **Problem-Solving and Critical Thinking**
+- **Leadership and Initiative**
+- **Adaptability and Flexibility**
+- **Time Management**
+- **Creativity and Innovation**
